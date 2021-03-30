@@ -1,0 +1,16 @@
+/* css rule */
+
+#first {
+  color: #0000ff;
+}
+
+#second {
+  color: rgba(3, 33, 234, 0.5);
+  background: rgb(32, 33, 44);
+}
+#three {
+  color: #f0f00a;
+}
+body {
+  background: #f0f00a;
+}
