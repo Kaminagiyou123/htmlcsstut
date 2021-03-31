@@ -1,16 +1,26 @@
 /* css rule */
+@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&family=Roboto:wght@100;300;400&display=swap");
 
-#first {
-  color: #0000ff;
-}
-
-#second {
-  color: rgba(3, 33, 234, 0.5);
-  background: rgb(32, 33, 44);
-}
-#three {
-  color: #f0f00a;
-}
 body {
-  background: #f0f00a;
+  line-height: 1.5;
+}
+
+.one {
+  font-size: 40px;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+}
+
+.two {
+  font-size: 40px;
+  word-spacing: 0.5rem;
+}
+
+a {
+  font-size: 3rem;
+  text-decoration: wavy;
+}
+
+h1 {
+  text-decoration: line-through;
 }
